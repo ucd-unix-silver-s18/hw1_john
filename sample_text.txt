@@ -1,0 +1,1 @@
+this is sample text file will be used to test file input using the c programming language
